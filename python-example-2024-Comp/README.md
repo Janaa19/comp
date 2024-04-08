@@ -1,0 +1,1 @@
+Classification model with CNN. No Signal Digitization Model
